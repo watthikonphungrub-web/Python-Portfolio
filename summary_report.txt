@@ -1,0 +1,3 @@
+Total Errors: 2
+Total Warnings: 0
+Total Information Messages: 2
